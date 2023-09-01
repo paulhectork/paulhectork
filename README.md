@@ -8,3 +8,9 @@ je fais des humanités numériques, du web, beaucoup de python, de javascript et
 
 ## des inspirations
 - [internet créatif](https://github.com/paulhectork/internet_creatif), où j'empile des liens vers des sites cools
+
+## des cours et des ateliers
+- [atelier sur l'édition et l'exploitation de corpus XML-TEI](https://github.com/paulhectork/cours_ens2023_xmltei): atelier donné à l'ENS-Ulm avec Léa Saint-Raymond, qui part de l'encodage automatique de texte brut en
+  XML-TEI jusqu'au minage de corpus en TEI (fouille de texte avec des regex et NER) et à la visualisation de données
+- [cours d'introduction à la fouille de texte](https://github.com/paulhectork/cours_ens2023_fouille_de_texte), donné à l'ENS-Ulm: structuration en masse avec des regex, analyse automatique, visualisation de données...
+- [tutoriel d'analyse quantitative de texte et de visualisation sur une page Web](https://github.com/paulhectork/tutorial_text2web)
